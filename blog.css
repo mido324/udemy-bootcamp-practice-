@@ -1,0 +1,39 @@
+body {
+    border: 20px solid gray;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 700px;
+    width: 80%;
+    font-family: Source Sans Pro;
+}
+.quote {
+ border-left: 5px solid rgb(173, 169, 169);
+ padding-left: 5px;
+}
+
+h2 {
+    color: rgb(76, 76, 201);
+    text-transform: uppercase;
+    font-size: 1.25em;
+    letter-spacing: .2em;
+}
+h1 {
+    color: rgb(66, 65, 65);
+    font-size: 2.0rem;
+   
+    
+}
+p {
+letter-spacing: 2;
+  /* border-left: 2px solid rgb(216, 212, 212); */
+  padding-right: 5px;
+  /* height: 20px; */
+ 
+}
+hr {
+        border: 0;
+        height: 0;
+        /* Firefox... */
+
+        box-shadow: 0 0 10px 1px black;
+}
