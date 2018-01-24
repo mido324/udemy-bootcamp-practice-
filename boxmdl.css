@@ -1,9 +1,19 @@
-body {
-    background-color: azure;
+.vertical {
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+
 }
- p {
-     border: solid 2px blue;
-     width: 50%;
-     padding: 10px;
-     
- }
+.horizontal {
+     border-top: 2px solid black;
+     border-bottom: 2px solid black;
+}
+td {
+    width: 100px;
+    height: 100px;
+}
+table {
+    margin: auto;
+}
+h1 {
+    text-align: center;
+}
