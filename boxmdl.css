@@ -1,0 +1,9 @@
+body {
+    background-color: azure;
+}
+ p {
+     border: solid 2px blue;
+     width: 50%;
+     padding: 10px;
+     
+ }

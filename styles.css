@@ -1,0 +1,11 @@
+p {
+    font-family: Arial;
+    line-height: 3;
+    text-align: center;
+}
+h1 {
+    font-family: Roboto Slab;
+    font-size: 5em;
+    color: aqua;
+    text-align: center;
+}
